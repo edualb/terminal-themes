@@ -2,6 +2,11 @@
 
 This repository uses the [powerlevel10k](https://github.com/romkatv/powerlevel10k#are-there-configuration-options-that-make-powerlevel10k-slow) theme.
 
+<div align="center">
+  <img src="assets/terminal-theme.png">
+</div>
+<br>
+
 # Installation
 
 1. Install [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
